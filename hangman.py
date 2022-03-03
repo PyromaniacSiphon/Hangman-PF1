@@ -33,16 +33,16 @@ def hangman():
                 word_letters.remove(user_letter)
             else:
                 lives = lives - 1 #takes away a life if wrong
-                print('Letter is not in the word.')
+                print('the word doesnt contain this letter')
 
         elif user_letter in used_letters:
-            print('You have already used that character. Please try again.')
+            print('Letter already used, try again')
         else:
-            print('Invalid character. Please try again.')
+            print('Invalid letter. Please try again.')
 
     # we will exit the while loop len(word_letters) == 0 OR when lives == 0
     if lives == 0:
         print(lives_visual_dict[lives])
-        print('You died, sorry. The word was', word)
+        print('you lost, the correct word is ', word)
     else:
-        print('You guessed the word', word, '!!')
+        print('Good, you won ! :', word, '!!')
