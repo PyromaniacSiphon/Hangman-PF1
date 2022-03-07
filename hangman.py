@@ -46,3 +46,4 @@ def hangman():
         print('you lost, the correct word is ', word)
     else:
         print('Good, you won ! :', word, '!!')
+hangman()
