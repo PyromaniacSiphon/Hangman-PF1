@@ -49,5 +49,10 @@ def hangman():
   
     else:
         print('You guessed the word', word, '!!')
+    restart = input("Do you want to play again? Type 'yes' to do so - ").lower()
+    if restart == "yes":
+            hangman()
+    else:
+        print("Thanks for playing!")
         
 hangman()
