@@ -5,7 +5,11 @@
 
 * [Functions used](#functionality)
 
+* [Demonstration](#Demonstration)
+
 * [Acknowledgement](Acknowledgement)
+
+
 
 
 # Introduction
@@ -47,7 +51,8 @@ This program was made in ***python***.
 •	We use if/else statements to add and remove letters in the defined sets based on what the user has guessed and to deduct lives if the user guesses incorrectly.
 •	We also use an if else statement to display the final output. If the user has ran out of lives, then the user will lose. Otherwise, the user wins the game and a print statement saying so will be displayed.
 
-
+# Demonstration
+![]
 # Acknowledgement
 
 * We, as a team, thank IST for giving us the golden opportunity to learn by allowing us to implement what we learnt in our projects. We also thank them for being supportive teachers.
