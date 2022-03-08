@@ -55,13 +55,19 @@ This program was made in ***python***.
 
 # Demonstration
 * this is what is shown when the user has entered an incorrect letter:
-*
+
+
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot%201.jpg)
 
 * this is what is shown when the user has lost the game: 
+
+
+
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot2.jpg)
 
 * this is what is shown when the user has successfully guessed all the letters and has won the game :
+
+
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot%203.jpg)
 # Acknowledgement
 
