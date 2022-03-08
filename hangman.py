@@ -49,6 +49,5 @@ def hangman():
   
     else:
         print('You guessed the word', word, '!!')
-
-
+        
 hangman()
