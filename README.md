@@ -3,7 +3,7 @@
 
 * [Languages](#Languages)
 
-* [Functions used](#functionality)
+* [Functionality](#Functionality)
 
 * [Demonstration](#Demonstration)
 
@@ -24,7 +24,7 @@ Whatever we learned throughout the semester was implemented in this hangman game
 
 This program was made in ***python***.
 
-# functionality
+# Functionality
 
  –
 ### RANDOM MODULE –
@@ -54,23 +54,21 @@ This program was made in ***python***.
 •	We also use an if else statement to display the final output. If the user has ran out of lives, then the user will lose. Otherwise, the user wins the game and a print statement saying so will be displayed.
 
 # Demonstration
-* this is what is shown when the user has entered an incorrect letter:
+* This is what is shown when the user has entered an incorrect letter:
 
 
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot%201.jpg)
 
-* this is what is shown when the user has lost the game: 
+* This is what is shown when the user has lost the game: 
 
 
 
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot2.jpg)
 
-* this is what is shown when the user has successfully guessed all the letters and has won the game :
+* This is what is shown when the user has successfully guessed all the letters and has won the game :
 
 
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot%203.jpg)
-# Acknowledgement
 
-* We, as a team, thank IST for giving us the golden opportunity to learn by allowing us to implement what we learnt in our projects. We also thank them for being supportive teachers.
 
 
