@@ -18,6 +18,8 @@ This file is a part of the first semester project presented by Muhammad Toufeeq,
 
 The basic theme of this project is to create a hangman game that enables you to guess a word with seven lives in hand. Once you lose all your lives, the game ends.
 
+Whatever we learned throughout the semester was implemented in this hangman game, it tremendously helped us to build our logic.
+
 # Languages
 
 This program was made in ***python***.
