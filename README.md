@@ -1,13 +1,8 @@
 # Content
-* [Introduction](#Introduction)
-
-* [Languages](#Languages)
-
-* [Functionality](#Functionality)
-
-* [Demonstration](#Demonstration)
-
-* [Acknowledgement](Acknowledgement)
+* Introduction
+* Languages
+* Functionality
+* Demonstration
 
 
 
