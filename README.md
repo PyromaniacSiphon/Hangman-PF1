@@ -9,9 +9,9 @@
 
 # Introduction
 
-This file is a part of the first semester project presented by Muhammad Toufeeq, Muhammad Faisal, Humna Ali, Zuha Fatima and Ahrar Ali.
+This file is a part of the first semester Programming Fundamentals Lab Project 'Hangman'.
 
-The basic theme of this project is to create a hangman game that enables you to guess a word with seven lives in hand. Once you lose all your lives, the game ends.
+The basic theme of this project is to create a hangman game that enables you to guess a word with seven lives in hand. Once you lose all your lives, the game ends. And if you can correctly guess the word within the aount of lives you're given, you win.
 
 Whatever we learned throughout the semester was implemented in this hangman game, it tremendously helped us to build our logic.
 
@@ -64,6 +64,16 @@ This program was made in ***python***.
 
 
 ![](https://github.com/PyromaniacSiphon/Hangman-PF1/blob/master/screenshot%203.jpg)
+
+# GROUP MEMBERS
+
+* Muhammad Taufeeq
+* Muhammad Faisal
+* Humna Ali
+* Ahrar Ali
+* Zuha Fatima
+
+
 
 
 
